@@ -4,6 +4,10 @@
 
 A lightweight, extensible, and modern code editor designed to provide a fast, customizable, and productive development experience.
 
+<p align="center">
+  <img src="./Screenshot.png" alt="Hypothesis Editor Screenshot" />
+</p>
+
 ## 📦 Installation
 
 Download the latest installer for your platform from [**GitHub Releases**](https://github.com/Hypothesis-Studio/Hypothesis-Editor/releases).
