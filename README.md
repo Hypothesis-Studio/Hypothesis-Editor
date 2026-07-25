@@ -5,7 +5,7 @@
 A lightweight, extensible, and modern code editor designed to provide a fast, customizable, and productive development experience.
 
 <p align="center">
-  <img src="./Screenshot1.png" alt="Hypothesis Editor Screenshot" />
+  <img src="./Screenshot1.jpg" alt="Hypothesis Editor Screenshot" />
 </p>
 
 ## 📦 Installation
