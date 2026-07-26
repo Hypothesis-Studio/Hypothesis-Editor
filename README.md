@@ -2,7 +2,7 @@
 
 > Every Great Solution Starts with a Hypothesis.
 
-A lightweight, extensible, and modern code editor designed for a fast, customizable, and productive development experience — with built-in AI, browser, database, REST client, tunnels, and more.
+A lightweight, extensible, and modern code editor designed for a fast, customizable, and productive development experience — with built-in AI, browser, database, REST client, live server, tunnels, and more.
 
 <p align="center">
   <img src="./Screenshot1.jpg" alt="Hypothesis Editor Screenshot" />
@@ -48,6 +48,20 @@ Get the latest release for your platform from [**GitHub Releases**](https://gith
 - Find in page, zoom, DevTools toggle
 - New Tab page with clock, search, quick links, recent visits
 - Open with `Ctrl+Shift+B`
+
+### 🌍 Live Server
+- Serve any local folder as a live website instantly
+- Auto-reload page when files change — no manual refresh needed
+- CSS-only changes hot-swap stylesheets without full reload
+- SPA mode — serves `index.html` for all unknown routes
+- HTTP and HTTPS support
+- CORS enabled by default
+- Per-request log: method, path, status, bytes, duration
+- File change log: shows every file added, modified, or deleted
+- Auto port-finding if requested port is busy
+- Copy URL, open in internal browser, open folder per server
+- Run multiple servers simultaneously
+- Accessible via Panel → Live Server tab
 
 ### 🔌 Tunnels
 - Forward any local port to a public URL instantly
