@@ -5,9 +5,9 @@
 A lightweight, extensible, and modern code editor designed for a fast, customizable, and productive development experience — with built-in AI, browser, database, REST client, live server, tunnels, and more.
 
 <p align="center">
-  <video src="./video.mp4" autoplay loop muted playsinline width="800">
-    Browser Anda tidak mendukung tag video.
-  </video>
+  <a href="./video.mp4">
+    <img src="./ss1.png" width="800" alt="Watch Demo">
+  </a>
 </p>
 
 ## 📦 Download
