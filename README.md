@@ -5,7 +5,7 @@
 A lightweight, extensible, and modern code editor designed for a fast, customizable, and productive development experience — with built-in AI, browser, database, REST client, live server, tunnels, and more.
 
 <p align="center">
-  <img src="./Screenshot1.jpg" alt="Hypothesis Editor Screenshot" />
+  <img src="./ss1.png" alt="Hypothesis Editor Screenshot" />
 </p>
 
 ## 📦 Download
