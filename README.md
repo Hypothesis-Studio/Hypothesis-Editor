@@ -5,9 +5,7 @@
 A lightweight, extensible, and modern code editor designed for a fast, customizable, and productive development experience — with built-in AI, browser, database, REST client, live server, tunnels, and more.
 
 <p align="center">
-  <a href="./video.mp4">
-    <img src="./ss1.png" width="800" alt="Watch Demo">
-  </a>
+  <img src="./demo.gif" width="800" alt="Demo">
 </p>
 
 ## 📦 Download
