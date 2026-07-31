@@ -5,7 +5,9 @@
 A lightweight, extensible, and modern code editor designed for a fast, customizable, and productive development experience — with built-in AI, browser, database, REST client, live server, tunnels, and more.
 
 <p align="center">
-  <img src="./ss1.png" alt="Hypothesis Editor Screenshot" />
+  <video src="./video.mp4" autoplay loop muted playsinline width="800">
+    Browser Anda tidak mendukung tag video.
+  </video>
 </p>
 
 ## 📦 Download
@@ -125,26 +127,7 @@ Get the latest release for your platform from [**GitHub Releases**](https://gith
 
 ### ⌨️ Command Palette
 - `Ctrl+Shift+P` — access all commands instantly
-
----
-
-## ⌨️ Keyboard Shortcuts
-
-| Action | Shortcut |
-|--------|----------|
-| Command Palette | `Ctrl+Shift+P` |
-| Open Folder | `Ctrl+K Ctrl+O` |
-| Save | `Ctrl+S` |
-| Save All | `Ctrl+Shift+S` |
-| Find in Files | `Ctrl+Shift+F` |
-| AI Agent | `Ctrl+Shift+A` |
-| Web Browser | `Ctrl+Shift+B` |
-| REST Client | `Ctrl+Shift+R` |
-| Database Explorer | `Ctrl+Shift+D` |
-| Run File | `Ctrl+F5` |
-| New Terminal | `Ctrl+\`` |
-| Keyboard Shortcuts | `Ctrl+K Ctrl+S` |
-
+- and more..
 ---
 
 ## 🔌 Extensions
