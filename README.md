@@ -1,3 +1,6 @@
+![Release](https://img.shields.io/github/v/release/Hypothesis-Studio/Hypothesis-Editor)
+![Downloads](https://img.shields.io/github/downloads/Hypothesis-Studio/Hypothesis-Editor/total)
+
 # Hypothesis Editor
 
 > Every Great Solution Starts with a Hypothesis.
