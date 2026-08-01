@@ -138,6 +138,17 @@ Build your own using the [Extension Boilerplate](https://github.com/Hypothesis-S
 
 ---
 
+## Contributing
+
+We welcome contributions of all kinds — bug reports, feature requests, documentation, and code.
+
+- 💬 [Discussions](https://github.com/orgs/Hypothesis-Studio/discussions/categories/general)
+- 💡 [Request a Feature](https://github.com/orgs/Hypothesis-Studio/discussions/categories/ideas)
+- 🐞 [Report a Bug](https://github.com/orgs/Hypothesis-Studio/discussions/categories/bugs)
+- 🙏 [Q&A](https://github.com/orgs/Hypothesis-Studio/discussions/categories/q-a)
+
+---
+
 ## 📄 License
 
 [MIT](LICENSE) © 2026 Hypothesis Studio
