@@ -17,7 +17,7 @@ Get the latest release for your platform from [**GitHub Releases**](https://gith
 
 | Platform | Format |
 |----------|--------|
-| Windows  | `.exe` (installer), `.exe` (portable) |
+| Windows  | `.exe` (installer), `.zip` (portable) |
 | macOS    | `.dmg`, `.zip` |
 | Linux    | `.AppImage`, `.deb`, `.rpm` |
 
